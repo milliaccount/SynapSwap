@@ -1,0 +1,35 @@
+# --- Binaires et Exécutables ---
+*.exe
+*.out
+*.app
+synapswap_test
+libsynapswap.so
+libsynapswap.dll
+libsynapswap.dylib
+
+# --- Objets et Bibliothèques Statiques ---
+*.o
+*.obj
+*.a
+*.lib
+
+# --- Dossiers de Build ---
+build/
+bin/
+dist/
+
+# --- Logs et Debug ---
+*.log
+gmon.out
+*.stackdump
+
+# --- IDE et Système ---
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# --- Fichiers de backup éditeurs ---
+*~
+*.swp
+*.bak
