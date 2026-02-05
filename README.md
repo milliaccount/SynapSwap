@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="assets/logo.png" width="300" alt="SynapSwap Logo">
+</p>
+
+...
 #  SynapSwap
 
 **Predictive VRAM Virtualization Engine for Large-Scale AI Inference**
